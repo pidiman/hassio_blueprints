@@ -1,6 +1,6 @@
 blueprint:
-  name: Motion-activated Switch
-  description: Turn on a switch when motion is detected.
+  name: Motion-activated Switch 2
+  description: Turn on a switch when 2 motions is detected.
   domain: automation
   source_url: 
   input:
